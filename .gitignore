@@ -1,4 +1,6 @@
-.idea
-/server/target
-/server/.classpath
-/server/.project
+*.iml
+*.settings
+*.idea
+*.classpath
+*.project
+*target
